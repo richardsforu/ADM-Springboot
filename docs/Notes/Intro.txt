@@ -1,0 +1,22 @@
+Spring boot pre requisite
+-----------------------------
+1. Java 8
+    Collection API, date and time API, Lamdas and Functional Programming
+2. Solid Design principles
+3. JDBC basics (only theory. Strictly no hands on)
+4. Spring Core
+    @Componet, @Service,@Repository, @Controller, @Configuration, @Bean, @ComponetScan
+    @Autowiring, @Qualifier, @RestController, @CrossOrigin, @RequestMapping,
+    @RequestBody, @ModelAttribye, @RequestParam, @PathVariable, @PathParam
+
+5. Spring AOP (only theory)
+6. Spring Data (JDBC Template and ORM)
+7. Spring Web MVC (Only theory. Strictly no hands on)
+8. Web Services Basics
+    a. SOAP Services (JAX -WS)  -> only theory
+    b. Restful web services (JAX-RS) only theory(Roy Fields architecture principles)
+9. Spring Rest API
+10. Spring Security (basic, authentication and authentication)
+
+Spring boot (built on top of Spring 4.0)
+-----------------------------------------
